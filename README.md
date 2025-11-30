@@ -1,5 +1,4 @@
 ![alt text](me.png)
-
 # Hi there! 👋
 
 My name is Emma and I'm a french full-stack developer living in Normandy! 🌦️🐄
