@@ -14,11 +14,11 @@ I like working on projects that are environmentally and socially responsible. ðŸ
 
 ### As a full stack developer
 
-Here is my Github account, where you can find my online CV (React / TS) and some other projects I have worked on.
+Here is my personal Github account, where you can find my online CV (React / TS) and some other projects I have worked on.
 
 ### As a DevOps
 
-Here is my [Gitlab account](https://gitlab.com/emmaguilbault1504) where you will find my DevOps projects! In 2026, I completed an intensive DevOps training course entitled "DevOps System Administrator" where I learned:
+Here is my personal [Gitlab account](https://gitlab.com/emmaguilbault1504) where you will find my DevOps projects! In 2026, I completed an intensive DevOps training course entitled "DevOps System Administrator" where I learned:
 
 - Continuous Integration and Continuous Deployment (CI/CD)
 - Containerization (Docker, Docker Compose and Kubernetes)
