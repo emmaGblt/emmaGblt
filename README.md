@@ -12,7 +12,7 @@ I like working on projects that are environmentally and socially responsible. ðŸ
 
 ## My projects
 
-## As a full stack developer
+### As a full stack developer
 
 Here is my Github account, where you can find my online CV (React / TS).
 
