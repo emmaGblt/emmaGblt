@@ -14,7 +14,7 @@ I like working on projects that are environmentally and socially responsible. ðŸ
 
 ### As a full stack developer
 
-Here is my Github account, where you can find my online CV (React / TS).
+Here is my Github account, where you can find my online CV (React / TS) and some other projects I have worked on.
 
 ### As a DevOps
 
